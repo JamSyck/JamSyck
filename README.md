@@ -1,6 +1,6 @@
 # 👋 <HOLA MUNDO!> 🌎
 
-Me llamo **JamSyck**, practicante en el desarrollo web tanto en el lado Frotend como en el Backend. He iniciado en esta carrera como un simple curso, pero que ahora me entusiasma en seguir adelante en esta área de la programación.
+Soy **JamSyck**, practicante en el desarrollo web tanto en el lado Frotend como en el Backend. He iniciado en esta carrera como un simple curso, pero que ahora me entusiasma en seguir adelante en esta área de la programación.
 
 ### 💻 Lenguajes & Programas
 
